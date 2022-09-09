@@ -1,2 +1,2 @@
-# discord-pusholder
+# Discord Pusholder
 Discord Pusholder
